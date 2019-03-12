@@ -1,5 +1,6 @@
 # NY-Taxi-Project
 
+Queried and sampled five million records of data with MySQL and used Pythons NumPy, Pandas, and SciPy libraries to clean data. Conducted descriptive and time series analysis to predict future fare amounts based on previous fare values. Visualized taxi fare and pick-up locations through Pythons Matplotlib library and Google Maps API.
 
 Link to Kaggle: https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
 Link to raw data: https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/data (use train.csv)
